@@ -1,5 +1,5 @@
-const first = 2;
-const second = "2";
+const first = 2; //0
+const second = "2"; //false
 if(first===second){
     console.log("condition is true");
 }
